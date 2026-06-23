@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5336","@Web Playwright special locators","","2026-06-22","passed","2026-06-22","","llc.spec.js","",""
+"","7380","@Web calender validation","","2026-06-22","passed","2026-06-22","","Calender.spec.js","",""
+"","40119","@Web Client app automate","","2026-06-22","broken","2026-06-22","","ClientApp.spec.js","",""
