@@ -14,7 +14,7 @@ test('@Web calender validation',async({page})=>
         await page.locator(".react-calendar__navigation__label").click();
         await page.locator(".react-calendar__navigation__label").click();
         await page.getByText(year).click();
-        //Calender test
+        //Calender test demo for new branch
         await page.locator(".react-calendar__tile").nth(Number(monthNumber)-1).click();
         await page.locator("//abbr[text()='"+Date+"']").click();
         const input=await page.locator(".react-date-picker__inputGroup__input");
